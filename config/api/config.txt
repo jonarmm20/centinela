@@ -1,0 +1,10 @@
+
+			[{
+			  "app": "Centinela",
+			  "version": "1.0.0",
+			  "author": "Jonthan Raymundo Magallanes Martinez",
+			  "rastreo": "0"
+			}]
+
+
+				

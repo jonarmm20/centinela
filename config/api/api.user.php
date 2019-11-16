@@ -1,0 +1,1 @@
+<?php include_once("../conexion.php"); $user = new Model(); $user->api_user(); ?>
